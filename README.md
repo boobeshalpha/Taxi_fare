@@ -77,6 +77,4 @@ python run.py
 This project is created for **educational purposes under GUVI**.
 Feel free to use and adapt it for learning and research.
 
----
 
-Do you want me to now **generate this as a ready-to-upload `README.md` file** so you can directly add it to your GitHub repo?
