@@ -73,6 +73,8 @@ python run.py
 ---
 
 ## 📜 License
+---
+Link for CSV file:https://drive.google.com/file/d/1VUb9ucTsroGDBOPcwpOfXwzDi-rd4wqQ/view?usp=sharing
 
 This project is created for **educational purposes under GUVI**.
 Feel free to use and adapt it for learning and research.
