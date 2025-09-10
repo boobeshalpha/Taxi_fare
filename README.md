@@ -1,8 +1,3 @@
-Understood ✅ You want the **Clone Repository** part removed as well, so the README will only tell users how to run the project (`run.py`).
-
-Here’s the clean final version:
-
----
 
 # 🚖 GUVI Taxi Fare Prediction
 
